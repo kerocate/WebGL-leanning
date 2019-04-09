@@ -1,4 +1,4 @@
-# WebGL-leanning
+# WebGL-learning
 My simple WebGL program
 
 ## 记录了我学习WebGL的过程。
